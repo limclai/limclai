@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @claire.c
-- 👀 My fav public figures are Muhammad Ali, Mike Tyson, Cus D'Amato, Kobe Bryant
-- 🌱 I’m currently learning ...Project Managament, Product Management, UX Design, Javascript, Python, Blockchain & Defi, NFTs, Web3
+- 👋 Hi, I’m Claire
+- 👀 My favourite public figures are Muhammad Ali, Mike Tyson, Cus D'Amato, Kobe Bryant
+- 🌱 I’m currently learning ...Project & Product Management, UX Design, Javascript, Python, Blockchain & Defi, NFTs, Web3
 - 💞️ This Github is for fun side projects
 
 <!---
